@@ -1,0 +1,6 @@
+interface:
+  display_name: "旅行照片拼贴"
+  short_description: "将同环境旅行照片组合成自然双色、黑白与原色交织的无文字拼贴系列"
+  default_prompt: "使用 $travel-photo-collage，将我提供的旅行照片分组制作成 3:5 无文字拼贴系列。"
+policy:
+  allow_implicit_invocation: true
